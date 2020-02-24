@@ -1,48 +1,52 @@
-滑条
-物件
-圈圈
-转盘
-骂娘
-双刀
-屙屎
-纯鼠
-纯板
-板键
-键鼠
-单双
-强双
-强单
-屌双
-混双
-触屏
-大触
-卖弱
-禁止卖弱
-我太菜了
-我太弱了
-触手
-刷子
-板鼠
-谱面
-曲包
-白猫
-曲奇
-培根
-断尾
-断滑条
-挂比
-姥爷
-麻婆
-切指
-指法
-粪图
-观赏图
-跳图
-沙雕图
-练习图
-垃圾图
-跑道图
-滑条乐
-摸图
-爷爷
-血玫瑰
+---
+name: luna_pinyin.osu
+version: "0.0.1"
+sort: original
+use_preset_vocabulary: true
+...
+
+滑條  hua tiao
+物件  wu jian
+圈圈  quan quan
+轉盤  zhuan pan
+罵娘  ma niang
+雙刀  shuang dao
+屙屎  e shi
+純鼠  chun shu
+純板  chun ban
+板鍵  ban jian
+鍵鼠  jian shu
+單雙  dan shuang
+強雙  qiang shuang
+強單  qiang dan
+屌雙  diao shuang
+混雙  hun shuang
+觸屏  chu ping
+大觸  da chu
+觸手  chu shou
+刷子  shua zi
+板鼠  ban shu
+譜面  pu mian
+曲包  qu bao
+白貓  bai mao
+曲奇  qu qi
+培根  pei gen
+斷尾  duan wei
+斷滑條 duan hua tiao
+掛比  gua bi
+姥爺  lao ye
+麻婆  ma po
+切指  qie zhi
+指法  zhi fa
+糞圖  fen tu
+觀賞圖 guan shang tu
+跳圖  tiao tu
+沙雕圖 sha diao tu
+練習圖 lian xi tu
+垃圾圖 la ji tu
+跑道圖 pao dao tu
+滑條樂 hua tiao le
+摸圖  mo tu
+爺爺  ye ye
+血玫瑰 xue mei gui
+墳圖  fen tu
